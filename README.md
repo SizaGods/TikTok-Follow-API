@@ -1,7 +1,7 @@
 ## Introduction
 
 This repository contains Python code that uses the `requests` library to interact with the TikTok API for the purpose of following users. The program sends an HTTP request to the TikTok server to follow a specific user.
-
+ 
 ## Requirements
 
 To ensure this code runs correctly, make sure you have the following packages installed: 
